@@ -1,0 +1,3 @@
+[submodule "familyTree-frontend"]
+	path = familyTree-frontend
+	url = https://github.com/ascaryaaa/familyTree-frontend.git
